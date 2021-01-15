@@ -2,8 +2,6 @@
 ![ant neuro](https://www.ant-neuro.com/sites/default/files/antneuro_logo_1_0.jpg) 
 
 
-***
-
 ## [eego family](https://www.ant-neuro.com/products/eego_product_family)
 
 1、 eego recording software installer
