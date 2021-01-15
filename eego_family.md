@@ -14,11 +14,11 @@ Click [here](https://pan.baidu.com/s/1xkalvEfQ_4VDRTFi2n3Hyg)  to download the l
 
 3、eego amplifier driver for x64
 
-Click [here] (https://pan.baidu.com/s/1nhUtx2TOANI_2ByBxgwb-A) to download the lasted version of eego amplifier driver.
+Click [here](https://pan.baidu.com/s/1nhUtx2TOANI_2ByBxgwb-A)   to download the lasted version of eego amplifier driver.
 
 4、eego Amplifier SDK for Windows
 
-Click [here] (https://pan.baidu.com/s/1jYvONC6uVjuAADrQwPDbNg) to download the lasted version of eego Amplifier SDK for Windows(v1.3.16).
+Click [here](https://pan.baidu.com/s/1jYvONC6uVjuAADrQwPDbNg)   to download the lasted version of eego Amplifier SDK for Windows(v1.3.16).
 
 
 Please contact support@psytech.com.cn for code of download link.
