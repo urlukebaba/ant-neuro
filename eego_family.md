@@ -21,7 +21,8 @@ Click [here](https://pan.baidu.com/s/1nhUtx2TOANI_2ByBxgwb-A)   to download the 
 Click [here](https://pan.baidu.com/s/1jYvONC6uVjuAADrQwPDbNg)   to download the lasted version of eego Amplifier SDK for Windows(v1.3.16).
 
 
-Please contact support@psytech.com.cn for code of download link.
+Please contact support@psytech.com.cn for download code.
+
 
 
 
