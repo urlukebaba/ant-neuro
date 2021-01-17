@@ -26,12 +26,27 @@ Download code: ``` ampd ```
 
 Click [here](https://pan.baidu.com/s/1jYvONC6uVjuAADrQwPDbNg)   to download the lasted version of eego Amplifier SDK for Windows(v1.3.16).
 
-Download code: ``` sdkk ```
+Download code: ``` sdkk ```  
 
-Please contact support@psytech.com.cn for download code.
+ <br />
+  <br />
+ 
+
+Please contact support@psytech.com.cn for support if you have any questions when downloading the files.
 
 
+ <br />
+  <br />
+   <br />
+ 
+      
 
+ <br />
+  <br />
+   <br />
+   
 
+<p align="center"> Copyright 1999 - 2021 ANT Neuro </p>
+  
 
 
