@@ -8,25 +8,25 @@
 
 Click [here](https://pan.baidu.com/s/1VmRzU780-i1kgY0FNRDvww)  to download the lasted version of eego Bundle (v1.9.1)
 
-<html>
-<body>
-   <a title="eego">Code</a>
-</body>
-</html>
-
+Download code: ``` eego ```
 
 ### 2、asa™ Analysis Software Installer
 
 Click [here](https://pan.baidu.com/s/1xkalvEfQ_4VDRTFi2n3Hyg)  to download the lasted version of asa Bundle (v4.10.1)
 
+Download code: ``` asaa ```
+
 ### 3、eego™ Amplifier Driver for x64
 
 Click [here](https://pan.baidu.com/s/1nhUtx2TOANI_2ByBxgwb-A)   to download the lasted version of eego amplifier driver.
+
+Download code: ``` ampd ```
 
 ### 4、eego™ Amplifier SDK for Windows
 
 Click [here](https://pan.baidu.com/s/1jYvONC6uVjuAADrQwPDbNg)   to download the lasted version of eego Amplifier SDK for Windows(v1.3.16).
 
+Download code: ``` sdkk ```
 
 Please contact support@psytech.com.cn for download code.
 
