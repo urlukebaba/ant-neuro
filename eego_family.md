@@ -6,7 +6,7 @@
 
 ### 1、 eego™ recording Software Installer
 
-Click [here](https://pan.baidu.com/s/1hMqlu7KYrohWcMlAuJFR2Q)  to download the lasted version of eego Bundle (v1.9.1)
+Click [here](https://pan.baidu.com/s/1hMqlu7KYrohWcMlAuJFR2Q)  to download the lasted version of eego Bundle (v1.9.2)
 
 Download code: ``` eego ```
 
