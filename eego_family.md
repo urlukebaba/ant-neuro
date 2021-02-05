@@ -2,7 +2,7 @@
 ![ant neuro](https://www.ant-neuro.com/sites/default/files/antneuro_logo_1_0.jpg) 
 
 
-## [eego family - Totally mobility EEG Solution](https://www.ant-neuro.com/products/eego_product_family)
+## [eego family - Deeper insights through better technology.](https://www.ant-neuro.com/products/eego_product_family)
 
 ### 1、 eego™ Recording Software Installer
 
